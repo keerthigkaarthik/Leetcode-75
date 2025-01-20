@@ -30,8 +30,6 @@
 #     1 <= s.length <= 3 * 105
 #     s consist of printable ASCII characters.
 
-
-
 class Solution(object):
     def reverseVowels(self, s):
         vowel_locations = []

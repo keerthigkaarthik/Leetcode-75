@@ -33,6 +33,8 @@
  
 # Follow up: Could you implement a solution that runs in O(n) time complexity and O(1) space complexity?
 
+
+
 import sys
 class Solution(object):
     def increasingTriplet(self, nums):
